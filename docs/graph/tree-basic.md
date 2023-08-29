@@ -76,7 +76,7 @@
 
 ![](images/tree-binary-complete.svg)
 
--   **完美二叉树（perfect binary tree）**：所有叶结点的深度均相同的二叉树称为完美二叉树。
+-   **完美二叉树（perfect binary tree）**：除根结点和叶结点之外的所有结点的读书都为 $2$ 。
 
 ![](images/tree-binary-perfect.svg)
 
